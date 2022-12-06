@@ -14,10 +14,6 @@ msgstr "A website screenshot."
 msgid "AMP Brand Materials"
 msgstr "AMP Brand Materials"
 
-#: /views/partials/footer.j2:44
-msgid "AMP"
-msgstr "AMP"
-
 #: /content/amp-dev/documentation/guides-and-tutorials/learn/amp-caches-and-cors/_blueprint.yaml
 msgid "AMP Caches & CORS"
 msgstr "AMP Caches & CORS"
