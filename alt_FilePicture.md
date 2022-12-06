@@ -22,6 +22,7 @@ Content Cell  | Content Cell
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
   - Type some Markdown on the left
+  - have
   - See HTML in the right
   - kkkkk hg
   - Magic
